@@ -9,11 +9,22 @@
 /* Begin PBXBuildFile section */
 		5CD5A4F71BEEA7DA000D3ABE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A4F61BEEA7DA000D3ABE /* AppDelegate.swift */; };
 		5CD5A4F91BEEA7DA000D3ABE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A4F81BEEA7DA000D3ABE /* ViewController.swift */; };
-		5CD5A4FC1BEEA7DA000D3ABE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A4FA1BEEA7DA000D3ABE /* Main.storyboard */; };
-		5CD5A4FE1BEEA7DA000D3ABE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A4FD1BEEA7DA000D3ABE /* Assets.xcassets */; };
-		5CD5A5011BEEA7DA000D3ABE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A4FF1BEEA7DA000D3ABE /* LaunchScreen.storyboard */; };
 		5CD5A50C1BEEA7DA000D3ABE /* LoginWithDelegatesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A50B1BEEA7DA000D3ABE /* LoginWithDelegatesTests.swift */; };
 		5CD5A5171BEEA7DA000D3ABE /* LoginWithDelegatesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A5161BEEA7DA000D3ABE /* LoginWithDelegatesUITests.swift */; };
+		5CD5A5251BEEA88D000D3ABE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5241BEEA88D000D3ABE /* Images.xcassets */; };
+		5CD5A5261BEEA88D000D3ABE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5241BEEA88D000D3ABE /* Images.xcassets */; };
+		5CD5A5271BEEA88D000D3ABE /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5241BEEA88D000D3ABE /* Images.xcassets */; };
+		5CD5A5291BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5281BEEA8CF000D3ABE /* LaunchScreen.xib */; };
+		5CD5A52A1BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5281BEEA8CF000D3ABE /* LaunchScreen.xib */; };
+		5CD5A52B1BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5281BEEA8CF000D3ABE /* LaunchScreen.xib */; };
+		5CD5A52D1BEEA97A000D3ABE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A52C1BEEA97A000D3ABE /* LoginViewController.swift */; };
+		5CD5A52E1BEEA97A000D3ABE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A52C1BEEA97A000D3ABE /* LoginViewController.swift */; };
+		5CD5A52F1BEEA97A000D3ABE /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD5A52C1BEEA97A000D3ABE /* LoginViewController.swift */; };
+		5CD5A5311BEEA9E9000D3ABE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5301BEEA9E9000D3ABE /* Main.storyboard */; };
+		5CD5A5321BEEA9E9000D3ABE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5301BEEA9E9000D3ABE /* Main.storyboard */; };
+		5CD5A5331BEEA9E9000D3ABE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5301BEEA9E9000D3ABE /* Main.storyboard */; };
+		5CD5A5361BEEAA3F000D3ABE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5341BEEAA3F000D3ABE /* Info.plist */; };
+		5CD5A5371BEEAA3F000D3ABE /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 5CD5A5341BEEAA3F000D3ABE /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -37,16 +48,17 @@
 		5CD5A4F31BEEA7DA000D3ABE /* LoginWithDelegates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LoginWithDelegates.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD5A4F61BEEA7DA000D3ABE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		5CD5A4F81BEEA7DA000D3ABE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		5CD5A4FB1BEEA7DA000D3ABE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		5CD5A4FD1BEEA7DA000D3ABE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		5CD5A5001BEEA7DA000D3ABE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		5CD5A5021BEEA7DA000D3ABE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CD5A5071BEEA7DA000D3ABE /* LoginWithDelegatesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginWithDelegatesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD5A50B1BEEA7DA000D3ABE /* LoginWithDelegatesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginWithDelegatesTests.swift; sourceTree = "<group>"; };
 		5CD5A50D1BEEA7DA000D3ABE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5CD5A5121BEEA7DA000D3ABE /* LoginWithDelegatesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginWithDelegatesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CD5A5161BEEA7DA000D3ABE /* LoginWithDelegatesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginWithDelegatesUITests.swift; sourceTree = "<group>"; };
 		5CD5A5181BEEA7DA000D3ABE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5CD5A5241BEEA88D000D3ABE /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = ../Images.xcassets; sourceTree = "<group>"; };
+		5CD5A5281BEEA8CF000D3ABE /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
+		5CD5A52C1BEEA97A000D3ABE /* LoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		5CD5A5301BEEA9E9000D3ABE /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		5CD5A5341BEEAA3F000D3ABE /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,11 +110,12 @@
 			isa = PBXGroup;
 			children = (
 				5CD5A4F61BEEA7DA000D3ABE /* AppDelegate.swift */,
+				5CD5A5241BEEA88D000D3ABE /* Images.xcassets */,
+				5CD5A5281BEEA8CF000D3ABE /* LaunchScreen.xib */,
+				5CD5A52C1BEEA97A000D3ABE /* LoginViewController.swift */,
+				5CD5A5301BEEA9E9000D3ABE /* Main.storyboard */,
+				5CD5A5381BEEAABA000D3ABE /* Supporting File */,
 				5CD5A4F81BEEA7DA000D3ABE /* ViewController.swift */,
-				5CD5A4FA1BEEA7DA000D3ABE /* Main.storyboard */,
-				5CD5A4FD1BEEA7DA000D3ABE /* Assets.xcassets */,
-				5CD5A4FF1BEEA7DA000D3ABE /* LaunchScreen.storyboard */,
-				5CD5A5021BEEA7DA000D3ABE /* Info.plist */,
 			);
 			path = LoginWithDelegates;
 			sourceTree = "<group>";
@@ -123,6 +136,14 @@
 				5CD5A5181BEEA7DA000D3ABE /* Info.plist */,
 			);
 			path = LoginWithDelegatesUITests;
+			sourceTree = "<group>";
+		};
+		5CD5A5381BEEAABA000D3ABE /* Supporting File */ = {
+			isa = PBXGroup;
+			children = (
+				5CD5A5341BEEAA3F000D3ABE /* Info.plist */,
+			);
+			name = "Supporting File";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +250,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5CD5A5011BEEA7DA000D3ABE /* LaunchScreen.storyboard in Resources */,
-				5CD5A4FE1BEEA7DA000D3ABE /* Assets.xcassets in Resources */,
-				5CD5A4FC1BEEA7DA000D3ABE /* Main.storyboard in Resources */,
+				5CD5A5311BEEA9E9000D3ABE /* Main.storyboard in Resources */,
+				5CD5A5291BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */,
+				5CD5A5251BEEA88D000D3ABE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,6 +260,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD5A5361BEEAA3F000D3ABE /* Info.plist in Resources */,
+				5CD5A5321BEEA9E9000D3ABE /* Main.storyboard in Resources */,
+				5CD5A52A1BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */,
+				5CD5A5261BEEA88D000D3ABE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -246,6 +271,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD5A5371BEEAA3F000D3ABE /* Info.plist in Resources */,
+				5CD5A5331BEEA9E9000D3ABE /* Main.storyboard in Resources */,
+				5CD5A52B1BEEA8CF000D3ABE /* LaunchScreen.xib in Resources */,
+				5CD5A5271BEEA88D000D3ABE /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +285,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD5A52D1BEEA97A000D3ABE /* LoginViewController.swift in Sources */,
 				5CD5A4F91BEEA7DA000D3ABE /* ViewController.swift in Sources */,
 				5CD5A4F71BEEA7DA000D3ABE /* AppDelegate.swift in Sources */,
 			);
@@ -265,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD5A52E1BEEA97A000D3ABE /* LoginViewController.swift in Sources */,
 				5CD5A50C1BEEA7DA000D3ABE /* LoginWithDelegatesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -273,6 +304,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD5A52F1BEEA97A000D3ABE /* LoginViewController.swift in Sources */,
 				5CD5A5171BEEA7DA000D3ABE /* LoginWithDelegatesUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -291,25 +323,6 @@
 			targetProxy = 5CD5A5131BEEA7DA000D3ABE /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		5CD5A4FA1BEEA7DA000D3ABE /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5CD5A4FB1BEEA7DA000D3ABE /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		5CD5A4FF1BEEA7DA000D3ABE /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				5CD5A5001BEEA7DA000D3ABE /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		5CD5A5191BEEA7DA000D3ABE /* Debug */ = {
